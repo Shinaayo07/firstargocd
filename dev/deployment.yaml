@@ -16,4 +16,4 @@ spec:
       - name: nodeapp
         image: shina371/nodelite:v3
         ports:
-        - containerPort: 8080
+        - containerPort: 7000
