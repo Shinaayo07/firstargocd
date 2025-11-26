@@ -21,7 +21,7 @@ kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.pas
 
 * Config repo: [https://github.com/Shinaayo07/firstargocd.git](https://github.com/Shinaayo07/firstargocd.git)
 
-* Docker repo: [https://hub.docker.com/repository/docker/nanajanashia/argocd-app](https://hub.docker.com/repository/docker/nanajanashia/argocd-app)
+* Docker repo: [https://hub.docker.com/repository/docker/shina371/nodelite:v3](https://hub.docker.com/repository/docker/shina371/nodelite:v3)
 
 * Install ArgoCD: [https://argo-cd.readthedocs.io/en/stable/getting_started/#1-install-argo-cd](https://argo-cd.readthedocs.io/en/stable/getting_started/#1-install-argo-cd)
 
